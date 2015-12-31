@@ -1,6 +1,6 @@
 {
   "name": "sjcl-bit-array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a modular fork of the sjcl bitArray namespace",
   "main": "index.js",
   "scripts": {
